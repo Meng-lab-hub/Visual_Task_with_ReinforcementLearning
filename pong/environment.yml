@@ -1,0 +1,21 @@
+name: pongA2C
+channels:
+  - defaults
+dependencies:
+  - python==3.8
+  - pyopengl
+  - pytorch==1.6
+  - matplotlib
+  - pandas
+  - numpy
+  - tqdm
+  - jupyter
+  - seaborn
+  - scikit-learn
+  - pip
+  - pip:
+    - gym==0.19
+    - atari_py
+    - pygame==2.1.2
+    - pyglet==1.5.27
+    - torchvision
