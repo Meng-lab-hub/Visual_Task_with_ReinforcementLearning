@@ -1,1 +1,1 @@
-# Visual Task with Reinforcement Learning
+# Visual Task Solving using Reinforcement Learning
